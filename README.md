@@ -1,4 +1,4 @@
-# ⚡ SPARK S3 — Neural Lighting & Security Automation System
+# SPARK S3 — Neural Lighting & Security Automation System
 
 ESP32-S3 tabanlı, hareket ve karanlık sensörlerini kullanarak evinizin aydınlatmasını ve güvenliğini otomatik yöneten akıllı ev sistemi. Sistem, kural tabanlı bir **Manuel Mod** ile kullanıcı alışkanlıklarını öğrenen bir **Yapay Sinir Ağı (ANN) Modu** arasında geçiş yapabilir. Uzaktan izleme ve kontrol; MQTT, Bluetooth (BLE) ve yerel ağ üzerinden web arayüzü ile mümkündür.
 
