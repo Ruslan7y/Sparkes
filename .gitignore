@@ -1,0 +1,14 @@
+# Wi-Fi credentials
+firmware/secrets.h
+
+# Flutter/Dart (app daxilində öz .gitignore-u var, amma ehtiyat üçün)
+app/build/
+app/.dart_tool/
+
+# IDE
+.vscode/
+*.iml
+
+# OS
+.DS_Store
+Thumbs.db
